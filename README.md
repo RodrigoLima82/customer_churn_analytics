@@ -1,4 +1,4 @@
-# customer_churn_analytics
+# Customer Churn Analytics
 
 <B>Customer Churn Analytics</B>
 
@@ -9,6 +9,7 @@ One area in which knowing and predicting cancellation fees is telecommunications
 In this project, customers Churn was predicted using a telecommunications dataset provided by IBM:https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
 
 Each row represents a customer and each column contains the variables of those clients.
+
 
 
 <B>Análise de Churn de Clientes</B>
