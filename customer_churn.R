@@ -1,23 +1,4 @@
-# Big Data na Prática 4 - Customer Churn Analytics 
-
-# A rotatividade (churn) de clientes ocorre quando clientes ou assinantes param de fazer negócios 
-# com uma empresa ou serviço. Também é conhecido como perda de clientes ou taxa de cancelamento.
-
-# Um setor no qual saber e prever as taxas de cancelamento é particularmente útil é o setor de telecomunicações, 
-# porque a maioria dos clientes tem várias opções de escolha dentro de uma localização geográfica.
-
-# Neste projeto, vamos prever a rotatividade (churn) de clientes usando um conjunto de dados de telecomunicações. 
-# Usaremos a regressão logística, a árvore de decisão e a floresta aleatória como modelos de Machine Learning. 
-
-# Usaremos um dataset oferecido gratuitamente no portal IBM Sample Data Sets. 
-# Cada linha representa um cliente e cada coluna contém os atributos desse cliente.
-
-# https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
-
-# Definindo o diretório de trabalho
-setwd("C:/FCD/BigDataRAzure/Cap06")
-getwd()
-
+# Customer Churn Analytics 
 
 # Carregando os pacotes
 library(plyr)
@@ -29,7 +10,6 @@ library(caret)
 library(MASS)
 library(randomForest)
 library(party)
-
 
 ##### Carregando e Limpando os Dados ##### 
 
